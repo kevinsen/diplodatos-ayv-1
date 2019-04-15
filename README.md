@@ -1,2 +1,4 @@
-# diplodatos-ayv-1
+# Análisis y Visualización
 Práctico I - Estadística
+
+
