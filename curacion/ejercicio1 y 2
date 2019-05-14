@@ -1,0 +1,11 @@
+Ejercicio 1: Tablas de Crecimiento1.
+
+Descargar dataset en CSVTablas de Peso Basado en material de https://www.cdc.gov/growthcharts/percentile_data_files.htm2.
+
+Graficar las curvas correspondientes a cada percentil para niños y niñasa.
+
+1) En la columna Sex, 1 representa a niños y 2 a niñas.
+
+2) Las curvas de los percentiles correspondientes a un mismo sexo deben ir en un mismo gráfico.c.
+
+3) Un gráfico para cada sexo.
