@@ -9,3 +9,9 @@ Graficar las curvas correspondientes a cada percentil para niños y niñasa.
 2) Las curvas de los percentiles correspondientes a un mismo sexo deben ir en un mismo gráfico.c.
 
 3) Un gráfico para cada sexo.
+
+Ejercicio 2: Pasos Fronterizos
+
+1) Descargar dataset en JSON: Pasos Fronterizos
+
+2) Graficar un histograma agrupando por valor del atributo “province”.
