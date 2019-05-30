@@ -4,10 +4,10 @@
   
   
 #### Requerimientos
-Windows 10  
-Conda  
-Jupyter
-  
+
+Conda 4.6.11  
+Jupyter 4.4.0
+Chrome o Firefox  
   
 #### 1. Práctico Ejercicio-Tablas.
 Para ejecutar este ejercicio posicionarse en el directorio __notebooks__ y ejecutar la notebook "ejercicio-tablas.ipynb"  
