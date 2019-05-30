@@ -1,1 +1,4 @@
-Esta carpeta contiene los trabajos practicos de la materia Analisis Exploratorio y Curación.
+# Practico Clases 1 y 2 - Analisis y Curacion
+
+## Instrucciones para ejecutar los practicos
+
