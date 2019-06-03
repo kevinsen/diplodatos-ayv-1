@@ -11,7 +11,7 @@ Jupyter 4.4.0
 Chrome o Firefox    
   
 Adicional a los paquetes de conda instalados previamente, se deberan instalar los siguientes paquetes a travez de los siguientes comandos:  
-_conda install ftfy_
+_conda install ftfy_  
 _conda install sklearn_  
 
 #### Paso inicial
