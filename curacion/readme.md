@@ -11,7 +11,7 @@ Jupyter 4.4.0
 Chrome o Firefox    
   
 #### Paso inicial
-Descargar desde este repositorio las carpetas Notebook y Datos.  
+Descargar desde este repositorio las carpetas __notebook__ y __input__.  
 Ejecutar los comandos requeridos para establecer el ambiente de conda (de acuerdo a la instalacion que posea)  
 Ejecutar el comando __jupyter notebook__ para iniciar la ejecucion de Jupyter.  
 
